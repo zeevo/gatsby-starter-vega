@@ -1,6 +1,6 @@
 # Gatsby Starter Vega
 
-View this starter [live on Netlify](https://gastsby-starter-vega.netlify.app/)
+View this starter [live on Netlify](https://gatsby-starter-vega.netlify.app/)
 
 1. Create a new Gatsby site using this starter
 
